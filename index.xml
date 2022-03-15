@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wong&#39;s Intro Study Group</title>
+    <link>https://mostafatouny.github.io/wong-intro-website/</link>
+      <atom:link href="https://mostafatouny.github.io/wong-intro-website/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wong&#39;s Intro Study Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mostafatouny.github.io/wong-intro-website/media/icon_hu9005a7450fd4105d0dc0f91ff08c2551_114496_512x512_fill_lanczos_center_2.png</url>
+      <title>Wong&#39;s Intro Study Group</title>
+      <link>https://mostafatouny.github.io/wong-intro-website/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://mostafatouny.github.io/wong-intro-website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mostafatouny.github.io/wong-intro-website/about/</guid>
+      <description>&lt;p&gt;about page here, with more info&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mostafatouny.github.io/wong-intro-website/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mostafatouny.github.io/wong-intro-website/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mostafatouny.github.io/wong-intro-website/meetings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mostafatouny.github.io/wong-intro-website/meetings/</guid>
+      <description>&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;Intro &lt;em&gt;(15/03/2022)&lt;/em&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Links&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://odysee.com/@mostafatouny:7/wong-intro-intro:c&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/file/#/2/file/8K7yvjk-qzUwg0T15KlyOfsr/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Objectives&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communicate group&amp;rsquo;s pedagogy, Including motivation, goals, activities, challenges, and how we&amp;rsquo;re going to get started.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
